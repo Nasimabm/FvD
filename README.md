@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Blauw
 
   #### Je focus:
-  surface plane
+  responsive
  
 </details>
 
@@ -36,18 +36,17 @@ Blauw
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ https://cafecito.nl/nl/home-koffiebar/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home pagina
+  <img src="readme-images/home-pagina.jpg" width="375px" alt="Dit is de home pagina van de website van Cafecito">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+
+  <img src="readme-images/totebag.jpg" width="375px" alt="Dit is de about pagina van de website van Cafecito">
  
 </details>
-
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
@@ -55,8 +54,13 @@ Blauw
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
+
+
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  -Lijst met je bevindingen die in de test naar voren kwamen:
+  -Niet alle p's worden gelezen.
+  -Derest wordt wel goed gelezen.
+  -Icoontjes worden goed uitgelegd.
 
 </details>
 
@@ -94,11 +98,11 @@ Blauw
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Nasima    | Aya         | Patoune    | Yordi        |
+  | ---       | ---                | ---          | ---              |
+  | html bespreken| en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook| dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...       | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
